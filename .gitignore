@@ -1,0 +1,5 @@
+*.suo
+*.sln
+*.csproj
+PL_Moveing/Temp/
+PL_Moveing/ProjectSettings/
